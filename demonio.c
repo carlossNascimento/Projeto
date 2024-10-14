@@ -9,7 +9,7 @@ int i;
 float fahrenheitParaCelsius(float fahrenheit) {
     return (fahrenheit - 32) * 5 / 9;
 }
-
+// esse codigo é para converte temperatura
 
 int main() {
     printf("CONVERSAO FAHREINHEIT – CELSIUS\n");
